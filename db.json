@@ -1,0 +1,79 @@
+{
+  "documentation": {
+    "materials": {
+      "name": "Материалы в системе",
+      "docs": {
+        "penoplex_osnova": {
+          "name": "Пеноплекс основа",
+          "docsSecond": {
+            "technical_list": {
+              "name": [
+                "файлы1.pdf",
+                "файлы1.pdf", 
+                "файлы1.pdf", 
+                "файлы1.pdf"
+              ]
+            },
+            "permitsDocs": {
+              "name": [
+                "Файл2.pdf", 
+                "Файл2.pdf", 
+                "Файл2.pdf", 
+                "Файл2.pdf"
+              ]
+            }
+          }
+        },
+        "penoplex_geo": {
+          "name": "Пеноплекс гео",
+          "docsSecond": {
+            "technical_list": {
+              "name": [
+                "файлы1.pdf",
+                "файлы1.pdf", 
+                "файлы1.pdf", 
+                "файлы1.pdf"
+              ]
+            },
+            "permitsDocs": {
+              "name": [
+                "Файл2.pdf", 
+                "Файл2.pdf", 
+                "Файл2.pdf", 
+                "Файл2.pdf"
+              ]
+            }
+          }
+        }
+      }
+
+    },
+    "2D_Files": {
+      "name": "2D файлы",
+      "docs": {
+        "penoplex_osnova": {
+          "name": "Пеноплекс основа",
+          "docsSecond": {
+            "technical_list": {
+              "name": [
+                "файлы1.pdf",
+                "файлы1.pdf", 
+                "файлы1.pdf", 
+                "файлы1.pdf"
+              ]
+            },
+            "permitsDocs": {
+              "name": [
+                "Файл2.pdf", 
+                "Файл2.pdf", 
+                "Файл2.pdf", 
+                "Файл2.pdf"
+              ]
+            }
+          }
+        }
+      }
+
+    }
+  }
+}
